@@ -1,0 +1,72 @@
+[
+     {
+          "id": 1,
+          "first_name": "Shalne",
+          "last_name": "Johanchon",
+          "email": "sjohanchon0@angelfire.com",
+          "gender": "Genderfluid"
+     },
+     {
+          "id": 2,
+          "first_name": "Bridget",
+          "last_name": "Giacometti",
+          "email": "bgiacometti1@altervista.org",
+          "gender": "Female"
+     },
+     {
+          "id": 3,
+          "first_name": "Aloysius",
+          "last_name": "Trinke",
+          "email": "atrinke2@goodreads.com",
+          "gender": "Male"
+     },
+     {
+          "id": 4,
+          "first_name": "Carole",
+          "last_name": "Bascombe",
+          "email": "cbascombe3@example.com",
+          "gender": "Female"
+     },
+     {
+          "id": 5,
+          "first_name": "Gypsy",
+          "last_name": "Beilby",
+          "email": "gbeilby4@biblegateway.com",
+          "gender": "Female"
+     },
+     {
+          "id": 6,
+          "first_name": "Mirelle",
+          "last_name": "Murton",
+          "email": "mmurton5@elpais.com",
+          "gender": "Female"
+     },
+     {
+          "id": 7,
+          "first_name": "Ambrose",
+          "last_name": "Persicke",
+          "email": "apersicke6@chronoengine.com",
+          "gender": "Male"
+     },
+     {
+          "id": 8,
+          "first_name": "Alain",
+          "last_name": "McNess",
+          "email": "amcness7@cnet.com",
+          "gender": "Bigender"
+     },
+     {
+          "id": 9,
+          "first_name": "Berny",
+          "last_name": "Fiddian",
+          "email": "bfiddian8@toplist.cz",
+          "gender": "Male"
+     },
+     {
+          "id": 10,
+          "first_name": "Rosco",
+          "last_name": "Caldicot",
+          "email": "rcaldicot9@histats.com",
+          "gender": "Male"
+     }
+]
